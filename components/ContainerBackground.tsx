@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
 
     backgroundImage: {
         position: 'absolute', // This takes the image out of the normal component flow
-        top: 0,
+        top: 1,
         left: 0,
         bottom: 0,
         right: 0,
